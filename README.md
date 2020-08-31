@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Design Credit: [Sarla Devi](https://www.uplabs.com/posts/travel-app-onboarding-c362e132-b750-4621-ac6f-f9ccd8ff526e)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
